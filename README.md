@@ -92,8 +92,9 @@ All of the modern browsers come with built-in support for JavaScript. Frequently
 
 Open a new tab -> type about: config in the address bar. Then you will find the warning dialog. Click the button and view the list of configure options in the browser. In the search bar, type javascript.enabled. There you will find the option to enable or disable JavaScript by right-clicking on the value of that option -> select Toggle.
 
-![](Screenshot%202023-08-27%20at%202.05.45%E2%80%AFPM.png)
-![](Screenshot%202023-08-27%20at%202.09.51%E2%80%AFPM.png)
+<img width="1512" alt="Screenshot 2023-08-27 at 2 05 45 PM" src="https://github.com/SSC-WebDevelopment/wdd221-week1-Guided-Activity-Starter/assets/15079402/8c401653-85ed-4221-88e3-aabba97dee6f">
+<img width="1512" alt="Screenshot 2023-08-27 at 2 09 51 PM" src="https://github.com/SSC-WebDevelopment/wdd221-week1-Guided-Activity-Starter/assets/15079402/2e708605-e4ec-401a-831f-5ec30b262966">
+
 
 #### Chrome
 
@@ -141,7 +142,8 @@ Modify the code using the code as a guide:
 ```
 
 **Results ~**
-![](Screenshot%202023-08-27%20at%202.19.34%E2%80%AFPM.png)
+<img width="1512" alt="Screenshot 2023-08-27 at 2 19 34 PM" src="https://github.com/SSC-WebDevelopment/wdd221-week1-Guided-Activity-Starter/assets/15079402/f2a8de51-3d85-4d7a-ac93-ff071c5681f6">
+
 
 Modify the code using below as a guide:
 
@@ -155,7 +157,8 @@ Modify the code using below as a guide:
 ```
 
 **Results ~**
-![](Screenshot%202023-08-27%20at%202.23.03%E2%80%AFPM.png)
+<img width="1512" alt="Screenshot 2023-08-27 at 2 23 03 PM" src="https://github.com/SSC-WebDevelopment/wdd221-week1-Guided-Activity-Starter/assets/15079402/14901f8b-fa71-4c71-978f-135107202c00">
+
 
 The console is a great tool, notice how it provides you with the result of your code along with the filename and line number. This will become quite handy when your code contains errors.
 
@@ -211,7 +214,8 @@ Find a method in the Number library that checks if a number is an integer
 - Use the number 2017
 
 If you make errors in your code, the console presents you with an error alert, which provides a hint to the error along with the line number ~
-![](Screenshot%202023-08-27%20at%202.31.33%E2%80%AFPM.png)
+<img width="635" alt="Screenshot 2023-08-27 at 2 31 33 PM" src="https://github.com/SSC-WebDevelopment/wdd221-week1-Guided-Activity-Starter/assets/15079402/fa0dd306-5c31-4dda-b20b-f8964abc6186">
+
 
 ## Summary
 
